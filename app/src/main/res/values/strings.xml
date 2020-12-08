@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MicroMan</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="menu_item">
+        <item>Rutas</item>
+        <item>Sincronizacion</item>
+        <item>Log</item>
+    </string-array>
+
+    <string name="title_activity_rutas">Rutas</string>
+    <string name="title_activity_domicilios">Domicilios</string>
+    <string name="title_activity_medidores">Medidores</string>
+    <string name="title_activity_sync">Sync</string>
+
+    <string-array name="sync_items">
+        <item>Exportar</item>
+        <item>Importar</item>
+        <item>Importar Repasos</item>     
+        <item>Leer Archivo XML</item>
+        <item>Generar Archivo XML</item>
+        <item>Reset DB Local</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_frg_domicilio">FrgDomicilio</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="title_activity_hitos">Hitos</string>
+    <string name="title_activity_cliente">Cliente</string>
+    <string name="title_activity_medidor">Medidor</string>
+    <string name="title_activity_buscar_medidores">BuscarMedidores</string>
+    <string name="title_activity_configuracion">Configuracion</string>
+    <string name="title_activity_act_turnos_rutas">Rutas Disponibles</string>
+    <string name="title_activity_act_turnos_repaso">Repasos Disponibles</string>
+   
+    <string name="title_activity_act_exportar_rutas">Exportar Rutas</string>
+    <string name="title_activity_coder_log_reader">CoderLogReader</string>
+
+    <string-array name="base_datos">
+        <item>CAPITAL</item>
+        <item>CHAMICAL</item>
+        <item>CHILECITO</item>
+        <item>OLTA</item>
+    </string-array>
+
+    <string name="title_activity_mapa">Ruta del Mapa</string>
+
+</resources>

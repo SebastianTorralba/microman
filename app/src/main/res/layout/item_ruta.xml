@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvCodRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="0000000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvRutaNombre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvCodRuta"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/tvAvance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvCodRuta"
+        android:layout_alignBottom="@+id/tvCodRuta"
+        android:layout_marginLeft="20dp"
+        android:layout_toRightOf="@+id/tvRutaNombre"
+        android:text="0/0" />
+
+    <TextView
+        android:id="@+id/tvTipo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvRutaNombre"
+        android:layout_alignBottom="@+id/tvRutaNombre"
+        android:layout_alignLeft="@+id/tvAvance"
+        android:text="Repaso"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

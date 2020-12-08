@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvbasedatos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Usuario" />
+
+    <EditText
+        android:id="@+id/etUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/tvEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Clave" />
+
+    <EditText
+        android:id="@+id/etClave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Localidad" />
+
+    <Spinner
+        android:id="@+id/spBaseDatos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:entries="@array/base_datos" />
+
+</LinearLayout>

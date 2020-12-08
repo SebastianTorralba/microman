@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvIdMedidor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="A000000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvRazonSocial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/tvUnidad"
+        android:layout_alignBottom="@+id/tvUnidad"
+        android:layout_toRightOf="@+id/tvIdMedidor"
+        android:text="Razon Social"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvUnidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvIdMedidor"
+        android:text="00000"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+</RelativeLayout>

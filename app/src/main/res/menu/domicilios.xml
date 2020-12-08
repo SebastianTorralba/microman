@@ -1,0 +1,7 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/anterior" android:title="Anterior">
+    </item>
+    <item android:id="@+id/siguiente" android:title="Siguiente"> </item>
+    <item android:id="@+id/buscarMedidor" android:icon="@android:drawable/ic_menu_search" android:title="Buscar Medidor"></item>
+
+</menu>

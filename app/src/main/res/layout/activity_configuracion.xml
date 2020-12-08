@@ -1,0 +1,52 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ActConfiguracion" >
+
+    <TextView
+        android:id="@+id/tvDbServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Servidor Base de Datos" />
+
+    <EditText
+        android:id="@+id/etDbServerUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/tvDatosComplementarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Instancia" />
+
+    <EditText
+        android:id="@+id/etDbServerInstancia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10" />
+
+    <Button
+        android:id="@+id/bTestConexion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test Conexion" />
+
+    <Button
+        android:id="@+id/bGuardar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Guardar Configuracion" />
+
+</LinearLayout>

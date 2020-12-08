@@ -1,0 +1,83 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/principal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvBaseDatos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Localidad???"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#FF0000" />
+
+    <TextView
+        android:id="@+id/tvcodRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ruta Activa"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/tvCodRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="000000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvDomicilio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avance Lectura"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ProgressBar
+        android:id="@+id/pbAvance"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvAvance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1/100" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Avance Transmision"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <ProgressBar
+        android:id="@+id/pbTransmitidos"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvTransmitidos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="1/100" />
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="254dp"
+        android:layout_weight="0.16"
+        android:entries="@array/menu_item"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        tools:context=".MicroMan"
+        tools:listitem="@android:layout/simple_list_item_1" >
+    </ListView>
+
+</LinearLayout>

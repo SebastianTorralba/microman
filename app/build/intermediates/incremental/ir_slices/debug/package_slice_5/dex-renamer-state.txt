@@ -1,0 +1,4 @@
+#Wed Dec 02 01:35:36 ART 2020
+base.0=/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex

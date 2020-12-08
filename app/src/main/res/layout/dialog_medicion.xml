@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvDomicilio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Spinner
+        android:id="@+id/spObservacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/tvcodRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <EditText
+        android:id="@+id/etLecturaActual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/tvAvance"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/bGps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Button" />
+
+    <ImageView
+        android:id="@+id/ivFoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" />
+
+</LinearLayout>

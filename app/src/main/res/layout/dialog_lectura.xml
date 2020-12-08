@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccione Observacion" />
+
+    <Spinner
+        android:id="@+id/spObservacion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Lectura" />
+
+    <EditText
+        android:id="@+id/etLecturaActual"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="number" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/bGps"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="GPS" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Coordenadas" />
+
+            <TextView
+                android:id="@+id/tvGpsLatitud"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0.0" />
+
+            <TextView
+                android:id="@+id/tvGpsLongitud"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0.0" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/bFoto"
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Foto" />
+
+            <ImageView
+                android:id="@+id/ivFoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_launcher" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tvDbServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Observacion Adicional" />
+
+    <EditText
+        android:id="@+id/etDbServerUrl"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textMultiLine" >
+
+        <requestFocus />
+    </EditText>
+
+</LinearLayout>

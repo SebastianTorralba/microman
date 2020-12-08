@@ -1,0 +1,102 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".ActDomicilios" >
+
+    <TextView
+        android:id="@+id/tvDomicilio"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dom"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvDatosComplementarios"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medidor" />
+
+    <TextView
+        android:id="@+id/tvIdMedidor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A000000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cliente" />
+
+    <TextView
+        android:id="@+id/tvUnidad"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="00000"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/tvRazonSocial"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Medium Text"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/bIngresarLectura"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ingresar Lectura" />
+
+    <TextView
+        android:id="@+id/tvbasedatos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Estado" />
+
+    <TextView
+        android:id="@+id/tvEstado"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <Button
+        android:id="@+id/bVerMapa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ver MAPA" />
+
+    <Button
+        android:id="@+id/bBuscarDomicilio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUSCAR DOMICILIO" />
+
+    <Button
+        android:id="@+id/bBuscarMedidor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUSCAR MEDIDOR" />
+
+    <Button
+        android:id="@+id/bBuscarUnidad"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUSCAR UNIDAD" />
+
+</LinearLayout>

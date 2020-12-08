@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tvCodRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="codRuta" />
+
+    <TextView
+        android:id="@+id/tvTurno"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/textView3"
+        android:text="turno" />
+
+    <TextView
+        android:id="@+id/tvRuta"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/tvCodRuta"
+        android:text="Ruta"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tvRuta"
+        android:layout_marginLeft="18dp"
+        android:layout_toRightOf="@+id/tvCodRuta"
+        android:text="Turno:" />
+
+</RelativeLayout>

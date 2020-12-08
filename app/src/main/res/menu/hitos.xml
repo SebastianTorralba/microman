@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/menu_buscador_medidores" android:orderInCategory="200" 
+        android:title="Buscar Medidor"
+        android:icon="@android:drawable/ic_menu_search">        
+    </item>
+    <item android:id="@+id/menu_buscador_personas" android:orderInCategory="200" 
+        android:title="Buscar Persona"
+        android:icon="@android:drawable/ic_menu_search">        
+    </item>
+    <item android:id="@+id/menu_buscador_domicilio" android:orderInCategory="200" 
+        android:title="Buscar Domicilio"
+        android:icon="@android:drawable/ic_menu_search">        
+    </item>
+    <item android:id="@+id/menu_buscar_siguiente" android:orderInCategory="300" android:title="Ir a Siguiente" 
+        android:icon="@android:drawable/ic_media_next"></item>
+<item android:id="@+id/menu_buscar_anterior" android:orderInCategory="100" android:title="Ir a Anterior" 
+        android:icon="@android:drawable/ic_media_previous"></item>
+<item android:id="@+id/ver_mapa"
+    android:orderInCategory="200" 
+        android:title="Ver Mapa"
+        android:icon="@android:drawable/ic_menu_search"> 
+</item>
+    
+</menu>
