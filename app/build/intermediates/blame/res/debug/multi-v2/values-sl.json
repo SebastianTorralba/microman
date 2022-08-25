@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "D:\\Proyectos\\microman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/3ef8cbae5c6196c2de78c5d61ca7e803/res/values-sl/values-sl.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,41 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/5b00a698dc104208a24d47b0d6ef41fa/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
-                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
-                        "startOffsets": "245,349,546,673,778,984,1112,1252,1381,1598,1703,1901,2029,2240,2418,2514,2602",
-                        "endColumns": "103,196,126,104,205,127,139,128,216,104,197,127,210,177,95,87,108",
-                        "endOffsets": "348,545,672,777,983,1111,1251,1380,1597,1702,1900,2028,2239,2417,2513,2601,2710"
-                    },
-                    "to": {
-                        "startLines": "60,61,62,63,64,65,66,67,69,70,71,72,73,74,75,76,77",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "6180,6288,6485,6616,6725,6931,7063,7207,7539,7756,7865,8063,8195,8406,8588,8688,8780",
-                        "endColumns": "107,196,130,108,205,131,143,132,216,108,197,131,210,181,99,91,112",
-                        "endOffsets": "6283,6480,6611,6720,6926,7058,7202,7335,7751,7860,8058,8190,8401,8583,8683,8775,8888"
-                    }
-                },
-                {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/2e122c100c6b351ba7203cbecc81a0a0/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4,5",
-                        "startColumns": "0,0",
-                        "startOffsets": "195,303",
-                        "endColumns": "107,92",
-                        "endOffsets": "302,395"
-                    },
-                    "to": {
-                        "startLines": "101,102",
-                        "startColumns": "4,4",
-                        "startOffsets": "11246,11358",
-                        "endColumns": "111,96",
-                        "endOffsets": "11353,11450"
-                    }
-                },
-                {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/76578a07a8f9afa35c49d1db683422f9/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -72,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/3ff9b79b240a2ccfdc9e990fe98b81e9/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\dd6056f445735ead16ade18e57b96dbf\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "78",
+                        "startColumns": "4",
+                        "startOffsets": "8893",
+                        "endColumns": "103",
+                        "endOffsets": "8992"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\a1287dfd8f6865521bb23188fc0c61bc\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7",
                         "startColumns": "0,0,0,0",
@@ -89,41 +72,24 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/bae4e20e37b00ac84072f408dcbe2694/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4e061d29ac1a2f6f67cba4dd452a5625\\res\\values-sl\\values.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "247",
-                        "endColumns": "198",
-                        "endOffsets": "445"
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,349,546,673,778,984,1112,1252,1381,1598,1703,1901,2029,2240,2418,2514,2602",
+                        "endColumns": "103,196,126,104,205,127,139,128,216,104,197,127,210,177,95,87,108",
+                        "endOffsets": "348,545,672,777,983,1111,1251,1380,1597,1702,1900,2028,2239,2417,2513,2601,2710"
                     },
                     "to": {
-                        "startLines": "68",
-                        "startColumns": "4",
-                        "startOffsets": "7340",
-                        "endColumns": "198",
-                        "endOffsets": "7534"
+                        "startLines": "60,61,62,63,64,65,66,67,69,70,71,72,73,74,75,76,77",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "6180,6288,6485,6616,6725,6931,7063,7207,7539,7756,7865,8063,8195,8406,8588,8688,8780",
+                        "endColumns": "107,196,130,108,205,131,143,132,216,108,197,131,210,181,99,91,112",
+                        "endOffsets": "6283,6480,6611,6720,6926,7058,7202,7335,7751,7860,8058,8190,8401,8583,8683,8775,8888"
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/d639985f323cdde6e7198e7394998689/res/values-sl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "192",
-                        "endColumns": "96",
-                        "endOffsets": "288"
-                    },
-                    "to": {
-                        "startLines": "79",
-                        "startColumns": "4",
-                        "startOffsets": "8997",
-                        "endColumns": "100",
-                        "endOffsets": "9093"
-                    }
-                },
-                {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/c964e45c00d880f8b4d801b37f35457f/res/values-sl/values-sl.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -140,7 +106,24 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/300a4da2fe2ee40e69e405e37cfe82c3/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\995b00d5e2c2137f3c234175d0d4b318\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "0,0",
+                        "startOffsets": "195,303",
+                        "endColumns": "107,92",
+                        "endOffsets": "302,395"
+                    },
+                    "to": {
+                        "startLines": "101,102",
+                        "startColumns": "4,4",
+                        "startOffsets": "11246,11358",
+                        "endColumns": "111,96",
+                        "endOffsets": "11353,11450"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\65ec3667ba013b9322001b7c49acde78\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10",
                         "startColumns": "0,0,0,0,0,0,0",
@@ -157,7 +140,7 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/1d4bba3b7a6f510a28e3d92758943b13/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\34b442dccd22af48c7594c4402be295f\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -174,20 +157,37 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/5ec4df1b1003b7d066cf4cce78853243/res/values-sl/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\843bf3b0d8f32b0aa8636682c21adab4\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "205",
-                        "endColumns": "99",
-                        "endOffsets": "304"
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
                     },
                     "to": {
-                        "startLines": "78",
+                        "startLines": "68",
                         "startColumns": "4",
-                        "startOffsets": "8893",
-                        "endColumns": "103",
-                        "endOffsets": "8992"
+                        "startOffsets": "7340",
+                        "endColumns": "198",
+                        "endOffsets": "7534"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\fb37d1c955d6d46b749bd563f5ef0d2e\\res\\values-sl\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "192",
+                        "endColumns": "96",
+                        "endOffsets": "288"
+                    },
+                    "to": {
+                        "startLines": "79",
+                        "startColumns": "4",
+                        "startOffsets": "8997",
+                        "endColumns": "100",
+                        "endOffsets": "9093"
                     }
                 }
             ]

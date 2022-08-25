@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "D:\\Proyectos\\microman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/3ef8cbae5c6196c2de78c5d61ca7e803/res/values-v23/values-v23.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",

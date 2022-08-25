@@ -192,7 +192,7 @@ public class Sincronizador extends AsyncTask<Integer, Integer, Integer> {
 
 	/** @pdOid ecab30c1-16b0-4222-9eaf-bfd20b564be7 */
 	public Connection conectarDBRemoto() {
-
+		configuracion.setDbServerUrl("181.10.138.162:3306");
 		try {
 			try {
 				Class.forName("com.mysql.jdbc.Driver");
@@ -209,7 +209,7 @@ public class Sincronizador extends AsyncTask<Integer, Integer, Integer> {
 			}
 			Log.i(Util.APP, connString);
 			mConexion = DriverManager.getConnection(connString, "microman",
-					"microman");
+					"Ciervo_314.A");
 			Log.i(Util.APP, "CONECTADO");
 		} catch (SQLException e) {
 			Log.e(Util.APP, "Conexion error: " + e.getMessage());

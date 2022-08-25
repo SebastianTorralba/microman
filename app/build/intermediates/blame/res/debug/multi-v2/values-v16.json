@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "D:\\Proyectos\\microman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/c2a2c8feb23c1ce015a16dadbef8b816/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/3ef8cbae5c6196c2de78c5d61ca7e803/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -14,6 +14,7 @@ import javax.mail.internet.AddressException;
 import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeMessage;
 
+import android.annotation.SuppressLint;
 import android.app.ProgressDialog;
 import android.content.Context;
 import android.os.AsyncTask;
@@ -23,8 +24,8 @@ import ar.com.twoboot.microman.objetos.Ruta;
 import ar.com.twoboot.microman.objetos.configuracion.CorreoNotificacion;
 
 public class MailNotificacion {
-	private static final String username = "coder.notificacion@gmail.com";
-	private static final String password = "m1crom4n";
+	private static final String username = "microman.app@aguasriojanas.com.ar";
+	private static final String password = "Aguas*pem2022";
 	private Context context;	
 	public MailNotificacion(Context context,Ruta ruta,Integer cantidad,String estadoTransmisionRuta,String avance) {
 		super();
@@ -58,7 +59,8 @@ public class MailNotificacion {
         sendMail(lista, subject, message);
 	}
 
-	private void sendMail(List<CorreoNotificacion> email, String subject, String messageBody) {
+	@SuppressLint("NewApi")
+    private void sendMail(List<CorreoNotificacion> email, String subject, String messageBody) {
         Session session = createSessionObject();
 
         try {
@@ -88,10 +90,9 @@ public class MailNotificacion {
         Properties properties = new Properties();
         properties.put("mail.smtp.auth", "true");
         properties.put("mail.smtp.starttls.enable", "true");
-//        properties.put("mail.smtp.host", "mail.c1370466.ferozo.com");
-//        properties.put("mail.smtp.port", "465");
-        properties.put("mail.smtp.host", "smtp.gmail.com");
+        properties.put("mail.smtp.host", "mail.aguasriojanas.com.ar");
         properties.put("mail.smtp.port", "587");
+        properties.put("mail.smtp.ssl.protocols", "TLSv1.2");
 
         return Session.getInstance(properties, new javax.mail.Authenticator() {
             protected PasswordAuthentication getPasswordAuthentication() {
@@ -100,6 +101,7 @@ public class MailNotificacion {
         });
     }
 
+    @SuppressLint("NewApi")
     private class SendMailTask extends AsyncTask<Message, Void, Void> {
         private ProgressDialog progressDialog;
 

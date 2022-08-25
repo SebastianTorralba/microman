@@ -1,10 +1,10 @@
-#Wed Dec 02 01:45:20 ART 2020
+#Thu Aug 25 12:16:39 ART 2022
 path.2=classes3.dex
 path.1=classes2.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/dex/debug/mergeDexDebug/out
-base.1=/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/dex/debug/mergeDexDebug/out
-base.0=/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/dex/debug/mergeDexDebug/out
+base.2=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.1=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.0=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out

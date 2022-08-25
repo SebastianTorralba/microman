@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/twoboot/StudioProjects/MicroMan/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rCA/values-en-rCA.xml",
+            "outputFile": "D:\\Proyectos\\microman\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "/Users/twoboot/.gradle/caches/transforms-2/files-2.1/1d4bba3b7a6f510a28e3d92758943b13/res/values-en-rCA/values.xml",
+                    "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\34b442dccd22af48c7594c4402be295f\\res\\values-en-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
