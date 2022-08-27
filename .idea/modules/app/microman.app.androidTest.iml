@@ -28,7 +28,7 @@
     <content url="file://$MODULE_DIR$/../../../app/build/generated/source/buildConfig/androidTest/debug" />
     <content url="file://$MODULE_DIR$/../../../app/src/androidTest" />
     <content url="file://$MODULE_DIR$/../../../app/src/androidTestDebug" />
-    <orderEntry type="jdk" jdkName="Android API 32 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 26 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" scope="TEST" name="Gradle: D./Proyectos/microman/app/libs/activation.jar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: D./Proyectos/microman/app/libs/additionnal.jar" level="project" />
@@ -37,8 +37,6 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:support-annotations:26.1.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: android.arch.lifecycle:common:1.0.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: android.arch.core:common:1.0.0" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex-instrumentation:1.0.2@aar" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex:1.0.3@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services:12.0.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-cast-framework:12.0.1@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.google.android.gms:play-services-cast:12.0.1@aar" level="project" />
@@ -103,6 +101,7 @@
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:support-core-ui:26.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:support-compat:26.1.0@aar" level="project" />
     <orderEntry type="library" scope="TEST" name="Gradle: android.arch.lifecycle:runtime:1.0.0@aar" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: com.android.support:multidex:1.0.3@aar" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="microman.app.main" />
 </module>

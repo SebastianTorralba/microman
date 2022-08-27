@@ -6,6 +6,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
+import android.os.Parcelable;
+import android.os.PersistableBundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
@@ -51,6 +53,17 @@ public class ActHitos extends AppCompatActivity {
 	private Integer estadoHitos = 0;
 	private String tipoRutaActiva;
 	private FragmentActivity actividad;
+
+	@Override
+	public void onSaveInstanceState(Bundle outState, PersistableBundle outPersistentState) {
+		super.onSaveInstanceState(outState, outPersistentState);
+	}
+
+	@Override
+	protected void onRestoreInstanceState(Bundle savedInstanceState) {
+		super.onRestoreInstanceState(savedInstanceState);
+	}
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -168,6 +181,12 @@ public class ActHitos extends AppCompatActivity {
 	 * one of the sections/tabs/pages.
 	 */
 	public class SectionsPagerAdapter extends FragmentStatePagerAdapter {
+		@Override
+		public Parcelable saveState() {
+			Bundle bundle = (Bundle) super.saveState();
+			bundle.putParcelableArray("states", null); // Never maintain any states from the base class, just null it out
+			return bundle;
+		}
 
 		public SectionsPagerAdapter(FragmentManager fm) {
 
@@ -189,6 +208,7 @@ public class ActHitos extends AppCompatActivity {
 		@Override
 		public int getCount() {
 			// Show 3 total pages.
+
 			return rutaActiva.getHito().size();
 		}
 
@@ -201,10 +221,6 @@ public class ActHitos extends AppCompatActivity {
 
 	}
 
-	/**
-	 * A dummy fragment representing a section of the app, but that simply
-	 * displays dummy text.
-	 */
 	public void irAHito(int posicion) {
 		Util.posicionEnViewPager(mViewPager, posicion);
 	}

@@ -332,8 +332,7 @@ public class OnHito extends OnNegocio implements Transaccionable {
 					// hitoLocal.setFoto(extraerFoto(ruta,
 					// hitoLocal.getOrden()));
 				}
-				hitoLocal.setLecturasAnteriores(new OnLecturaAnterior(
-						getTransaccion()).extraer(hitoLocal));
+				//hitoLocal.setLecturasAnteriores(new OnLecturaAnterior(getTransaccion()).extraer(hitoLocal));
 				hitoLocal.setRuta(ruta);
 				// }
 			} while (localCursor.moveToNext());
@@ -343,7 +342,9 @@ public class OnHito extends OnNegocio implements Transaccionable {
 			pDialog.dismiss();
 		}
 	}
-
+	public ArrayList<LecturaAnterior>  cargarLecturasAnteriores(Hito h) {
+		return (new OnLecturaAnterior(getTransaccion()).extraer(h));
+	}
 	public Integer calcularOrdenEfectivo() {
 		Integer ordenEfectivo = 0;
 		String select = "select max(ordenEfectivo) from hito where codruta='"
@@ -463,9 +464,10 @@ public class OnHito extends OnNegocio implements Transaccionable {
 		java.util.Date fechaInicio = null;
 		java.util.Date fechaFin = null;
 		Long dias = (long) 0;
-		lecturas = hito.getLecturasAnteriores().size();
+		ArrayList<LecturaAnterior> lecturasAnteriores = cargarLecturasAnteriores(hito);
+		lecturas = lecturasAnteriores.size();
 		if (lecturas > 0) {
-			for (Iterator iterator = hito.getLecturasAnteriores().iterator(); iterator
+			for (Iterator iterator = lecturasAnteriores.iterator(); iterator
 					.hasNext();) {
 
 				LecturaAnterior lectura = (LecturaAnterior) iterator.next();

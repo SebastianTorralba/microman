@@ -328,11 +328,16 @@ public class DialogHitoLectura extends DialogBaseAbm implements GpsCapturable {
 				tomarFoto = false;
 			}
 			hito.setTipoLectura("M");
-			if (consumo>=MicroMan.sistema.getConsumoElevado()){
+			try{	if (consumo>=MicroMan.sistema.getConsumoElevado()){
 				mensaje.append("Consumo Elevado\n");
 				tomarFoto = true;
 				mostrarMensaje=true;
 			}
+			}catch(Exception e){
+				e.printStackTrace();
+
+			}
+
 			if(mostrarMensaje){
 				mostrarAdvertencia(mensaje.toString());
 			}

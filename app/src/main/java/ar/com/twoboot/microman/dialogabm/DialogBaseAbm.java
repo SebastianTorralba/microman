@@ -105,6 +105,7 @@ public class DialogBaseAbm extends DialogFragment implements
 		default:
 			break;
 		}
+		setRetainInstance(true);
 		return builder.create();
 
 	}

@@ -132,10 +132,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\995b00d5e2c2137f3c234175d0d4b318\\res\\drawable-xxhdpi-v4\\places_ic_clear.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_borderless_text_material.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_16_dark.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-xhdpi-v4\\ic_mr_button_connected_16_dark.png"
     },
@@ -500,10 +496,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_14_light.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
@@ -542,10 +534,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_17_light.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_17_light.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -814,10 +802,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\layout\\notification_action_tombstone.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connected_13_light.png.flat",
@@ -1236,10 +1220,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable-xxhdpi-v4\\quantum_ic_skip_next_white_36.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_fragment.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\995b00d5e2c2137f3c234175d0d4b318\\res\\layout\\place_autocomplete_fragment.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\layout\\abc_list_menu_item_layout.xml"
     },
@@ -1316,12 +1296,12 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\menu_cliente.xml.flat",
         "source": "D:\\Proyectos\\microman\\app\\src\\main\\res\\menu\\cliente.xml"
+    },
+    {
+        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_text_disabled.xml.flat",
@@ -1502,10 +1482,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_28_light.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-xhdpi-v4\\ic_mr_button_connecting_28_light.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_action.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\layout\\notification_action.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_play_arrow_grey600_48.png.flat",
@@ -2076,10 +2052,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\5997913c8498d7fdcd83b5be241f3578\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_colored_material.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable\\abc_btn_colored_material.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_place_autocomplete_progress.xml.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\995b00d5e2c2137f3c234175d0d4b318\\res\\layout\\place_autocomplete_progress.xml"
     },
@@ -2348,10 +2320,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-mdpi-v4\\ic_mr_button_disconnected_dark.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_quantum_ic_skip_next_grey600_36.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable-mdpi-v4\\quantum_ic_skip_next_grey600_36.png"
     },
@@ -2370,10 +2338,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_mr_button_connecting_14_light.png.flat",
@@ -2632,10 +2596,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\7b496b98c433dd416a12c3c8223aef10\\res\\drawable-mdpi-v4\\ic_plusone_small_off_client.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\layout-v16\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\menu_mapa.xml.flat",
         "source": "D:\\Proyectos\\microman\\app\\src\\main\\res\\menu\\mapa.xml"
     },
@@ -2846,10 +2806,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_cast_ic_notification_on.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\a1287dfd8f6865521bb23188fc0c61bc\\res\\drawable-mdpi-v4\\cast_ic_notification_on.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_quantum_ic_stop_grey600_36.png.flat",
@@ -3264,10 +3220,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable-hdpi-v4\\quantum_ic_stop_white_24.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_quantum_ic_bigtop_updates_white_24.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable-xhdpi-v4\\quantum_ic_bigtop_updates_white_24.png"
     },
@@ -3652,10 +3604,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4e061d29ac1a2f6f67cba4dd452a5625\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_default.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_rewind10.xml.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
@@ -3696,10 +3644,6 @@
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable-xhdpi-v4\\quantum_ic_pause_grey600_36.png"
     },
     {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\4d3eab20baab3de2f8236063c3af5ff5\\res\\layout\\notification_template_custom_big.xml"
-    },
-    {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_mr_button_connecting_26_dark.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\e07ae275a341fadb989d0565d0e83eb8\\res\\drawable-xxhdpi-v4\\ic_mr_button_connecting_26_dark.png"
     },
@@ -3730,10 +3674,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cast_ic_notification_skip_next.xml.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\205c1d1663ad338f4342e416c3c1e3db\\res\\drawable\\cast_ic_notification_skip_next.xml"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_edit_text_material.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -3950,10 +3890,6 @@
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_powered_by_google_dark.png.flat",
         "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\995b00d5e2c2137f3c234175d0d4b318\\res\\drawable-mdpi-v4\\powered_by_google_dark.png"
-    },
-    {
-        "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
-        "source": "C:\\Users\\coder.CODER_WS\\.gradle\\caches\\transforms-2\\files-2.1\\caa67179781dcc0709df3c74074d4586\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\Proyectos\\microman\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_vol_type_tv_dark.png.flat",

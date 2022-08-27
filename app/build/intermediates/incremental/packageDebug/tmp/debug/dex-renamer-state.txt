@@ -1,10 +1,10 @@
-#Thu Aug 25 12:16:39 ART 2022
-path.2=classes3.dex
-path.1=classes2.dex
+#Sat Aug 27 12:02:23 ART 2022
+path.2=classes2.dex
+path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-base.1=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-base.0=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+base.2=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.0=D\:\\Proyectos\\microman\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
